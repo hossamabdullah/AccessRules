@@ -1,0 +1,30 @@
+[
+    {
+        "group":"group1",
+        "member":"member1",
+        "Rule#1":"true",
+        "Rule#2":"true",
+        "Rule#3":"true"
+    },
+    {
+        "group":"group1",
+        "member":"member2",
+        "Rule#1":"true",
+        "Rule#2":"true",
+        "Rule#3":"true"
+    },
+    {
+        "group":"group2",
+        "member":"member2",
+        "Rule#1":"true",
+        "Rule#2":"true",
+        "Rule#3":"true"
+    },
+    {
+        "group":"group2",
+        "member":"member3",
+        "Rule#1":"true",
+        "Rule#2":"true",
+        "Rule#3":"true"
+    }
+]
